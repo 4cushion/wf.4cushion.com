@@ -1,11 +1,11 @@
 {
-    "name": "wf_webpage",
-    "short_name": "wf_webpage",
+    "name": "dgt504",
+    "short_name": "dgt504",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "4CS DGT504 hybrid watch face for WearOS",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
